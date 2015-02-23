@@ -17,6 +17,13 @@ revised project completion date: February 23
 -----------------------------------------------------------------------------------------------------------------------------
 
 
+#### Data
+I found that using gitstats on a repo gave me access to pretty much all the data I needed. It has each authors start date, the file count on a given date, the LoC on a given date and the commits by author.
+
+The gitstats example folder contains the output when gitstats was used to analyze bootstrap.
+
+#### Predictions
+I'm hoping to find that when there is a new author commiting heavily to a project we can see a visible change in the growth of the project(just using total LoC)
 
 
 
