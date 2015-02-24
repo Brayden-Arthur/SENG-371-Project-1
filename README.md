@@ -36,8 +36,16 @@ I'm hoping to find that when there is a new author commiting heavily to a projec
 
 #### Data
 
+The green lines indicate when a large contributor made their first commit
 
+Bootstrap
+![Alt text](bootstrap.png?raw=true "Node")
 
+Jquery 
+![Alt text](jquery.png?raw=true "Node")
+
+Node
+![Alt text](node.png?raw=true "Node")
 
 
 #### Issues
